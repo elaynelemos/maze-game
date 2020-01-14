@@ -7,3 +7,14 @@ Implementação com OpenGL/GLUT de um "labirinto", ambiente com diversos obstác
 - Números de 3 a 6 mudam a forma do player quando ele está na posição inicial.
 - O botão esquerdo do mouse pode ser usado para trocar a cor dos obstáculos.
 - Tecla ESC pode ser usada a qualquer momento para sair do labirinto.
+
+## Dependências
+- OpenGL/GLUT
+
+## Screenshots
+![](screenshots/01.png =200x200)
+![](screenshots/02.png =200x200)
+![](screenshots/03.png =200x200)
+![](screenshots/04.png =200x200)
+![](screenshots/05.png =200x200)
+![](screenshots/06.png =200x200)
