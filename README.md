@@ -12,7 +12,7 @@ Implementação com OpenGL/GLUT de um "labirinto", ambiente com diversos obstác
 - OpenGL/GLUT
 
 ## Screenshots
-![](screenshots/01.png =200x200)
+![](screenshots/01.png)
 ![](screenshots/02.png =200x200)
 ![](screenshots/03.png =200x200)
 ![](screenshots/04.png =200x200)
